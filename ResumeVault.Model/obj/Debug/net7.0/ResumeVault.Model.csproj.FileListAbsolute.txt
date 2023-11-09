@@ -1,0 +1,22 @@
+C:\Users\user\Desktop\My Local Task Repo\MyDecagon-Task-Repo\ResumeVault.Model\bin\Debug\net7.0\ResumeVault.Model.deps.json
+C:\Users\user\Desktop\My Local Task Repo\MyDecagon-Task-Repo\ResumeVault.Model\bin\Debug\net7.0\ResumeVault.Model.dll
+C:\Users\user\Desktop\My Local Task Repo\MyDecagon-Task-Repo\ResumeVault.Model\bin\Debug\net7.0\ResumeVault.Model.pdb
+C:\Users\user\Desktop\My Local Task Repo\MyDecagon-Task-Repo\ResumeVault.Model\obj\Debug\net7.0\ResumeVault.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\My Local Task Repo\MyDecagon-Task-Repo\ResumeVault.Model\obj\Debug\net7.0\ResumeVault.Model.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\My Local Task Repo\MyDecagon-Task-Repo\ResumeVault.Model\obj\Debug\net7.0\ResumeVault.Model.AssemblyInfo.cs
+C:\Users\user\Desktop\My Local Task Repo\MyDecagon-Task-Repo\ResumeVault.Model\obj\Debug\net7.0\ResumeVault.Model.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\My Local Task Repo\MyDecagon-Task-Repo\ResumeVault.Model\obj\Debug\net7.0\ResumeVault.Model.dll
+C:\Users\user\Desktop\My Local Task Repo\MyDecagon-Task-Repo\ResumeVault.Model\obj\Debug\net7.0\refint\ResumeVault.Model.dll
+C:\Users\user\Desktop\My Local Task Repo\MyDecagon-Task-Repo\ResumeVault.Model\obj\Debug\net7.0\ResumeVault.Model.pdb
+C:\Users\user\Desktop\My Local Task Repo\MyDecagon-Task-Repo\ResumeVault.Model\obj\Debug\net7.0\ref\ResumeVault.Model.dll
+C:\Users\user\Desktop\Local\ResumeVault.Model\bin\Debug\net7.0\ResumeVault.Model.deps.json
+C:\Users\user\Desktop\Local\ResumeVault.Model\bin\Debug\net7.0\ResumeVault.Model.dll
+C:\Users\user\Desktop\Local\ResumeVault.Model\bin\Debug\net7.0\ResumeVault.Model.pdb
+C:\Users\user\Desktop\Local\ResumeVault.Model\obj\Debug\net7.0\ResumeVault.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Local\ResumeVault.Model\obj\Debug\net7.0\ResumeVault.Model.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Local\ResumeVault.Model\obj\Debug\net7.0\ResumeVault.Model.AssemblyInfo.cs
+C:\Users\user\Desktop\Local\ResumeVault.Model\obj\Debug\net7.0\ResumeVault.Model.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Local\ResumeVault.Model\obj\Debug\net7.0\ResumeVault.Model.dll
+C:\Users\user\Desktop\Local\ResumeVault.Model\obj\Debug\net7.0\refint\ResumeVault.Model.dll
+C:\Users\user\Desktop\Local\ResumeVault.Model\obj\Debug\net7.0\ResumeVault.Model.pdb
+C:\Users\user\Desktop\Local\ResumeVault.Model\obj\Debug\net7.0\ref\ResumeVault.Model.dll
